@@ -1,10 +1,36 @@
+body {
+    
+    
+  }
+
+
+
+
 h1 {color: black;}
-header {background-color: peru;}
-.info {
+header {background-color: peru;
 
 }
 
-h2 {background-color: red;
-    color: white;
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h2 {background-color: rgba(98, 13, 155, 0.911);
+    color: rgb(255, 255, 0);
+    text-align: center;
+    font-size: xx-large;
     
 }
+
+h3 {background-color: rgb(255, 174, 0);
+    color: rgb(132, 0, 255);
+    text-align: center;
+    align-items: center;
+    font-size: xx-large;
+}
+
+
